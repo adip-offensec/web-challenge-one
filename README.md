@@ -11,7 +11,7 @@ A realistic, self-contained web exploitation lab that simulates a complete attac
 ### Quick Deployment (Docker)
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/web-challenge-one.git
+git clone https://github.com/adip-offensec/web-challenge-one.git
 cd web-challenge-one
 
 # Build and start the lab
@@ -54,7 +54,7 @@ The lab presents a fictional company "BAMBI Corp" with a vulnerable web applicat
 
 ```bash
 # 1. Clone or download the lab
-git clone https://github.com/<your-username>/web-challenge-one.git
+git clone https://github.com/adip-offensec/web-challenge-one.git
 cd web-challenge-one
 
 # 2. Build and start the container (first build may take 5-10 minutes)
@@ -85,7 +85,7 @@ docker compose down
 
 ```bash
 # 1. Clone or download the lab
-git clone https://github.com/<your-username>/web-challenge-one.git
+git clone https://github.com/adip-offensec/web-challenge-one.git
 cd web-challenge-one
 
 # 2. Run the automated setup script
