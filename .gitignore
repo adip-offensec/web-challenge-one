@@ -1,0 +1,30 @@
+# Docker
+.DS_Store
+*.swp
+*.swo
+*~
+*.log
+.env
+
+# Build artifacts
+docker-compose.override.yml
+.vscode/
+.idea/
+
+# Temporary files
+__pycache__/
+*.pyc
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
